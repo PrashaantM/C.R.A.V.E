@@ -2,6 +2,8 @@
 
 C.R.A.V.E is a mobile cycling application that enhances urban cycling through **real-time navigation, local discovery, activity tracking, and gamification**. The project focuses on usability, engagement, and iterative design driven by user feedback.
 
+This repository is a personal archival version of a COSC 341 (UBC) team project.
+
 ---
 
 ## 🛠️ Tech Stack
